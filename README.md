@@ -4,7 +4,7 @@
 
 + **MySQL database**
 
-	``` Database will be created automatically upon running of project
+  Database will be created automatically upon running of project
 
 + **Specify OAuth2 Provider ClientId's and ClientSecrets**
 	
